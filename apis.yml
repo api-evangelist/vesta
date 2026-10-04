@@ -55,9 +55,9 @@ tags:
 - Lending
 - Loan Origination System
 - Fintech
-- Financial-Services
+- Financial Services
 - AI Agents
-- Real-Estate
+- Real Estate
 tags_raw:
 - Company
 - Mortgage
@@ -67,6 +67,8 @@ tags_raw:
 - Financial Services
 - AI Agents
 - Real Estate
+- Financial-Services
+- Real-Estate
 apis: []
 common:
 - type: DomainSecurity
